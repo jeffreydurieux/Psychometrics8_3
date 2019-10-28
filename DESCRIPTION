@@ -14,8 +14,10 @@ Depends:
     dataRetrieval,
     dplyr,
     ggplot2,
+    GPArotation,
     lubridate,
     plotly,
+    rio,
     tidyr,
     viridis
 Encoding: UTF-8
