@@ -36,7 +36,7 @@ mat <- cbind(mat, name = c('rock', 'jazz', 'classical', 'joe'))
 
 p <- plot_ly(data = mat, x = ~speed, y = ~basic, z = ~complex,
              color = ~name)
-p
+print(p)
 
 
 
