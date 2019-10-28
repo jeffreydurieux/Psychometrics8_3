@@ -4,7 +4,8 @@ This repository is an example repo to test out the [`holepunch`](https://github.
 
 <!-- badges: start -->
   [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karthik/binder-test/master?urlpath=rstudio)
-  <!-- badges: end -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffreydurieux/Psychometrics8_3/master?urlpath=rstudio)
+<!-- badges: end -->
   
   
 

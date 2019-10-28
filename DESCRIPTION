@@ -1,20 +1,21 @@
 Type: Compendium
-Package: Compendium title
+Package: Your compendium name
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
-    person(given = "Karthik",
-           family = "Ram",
+    person(given = "First",
+           family = "Last",
            role = c("aut", "cre"),
-           email = "karthik.ram@gmail.com",
-           comment = c(ORCID = "0000-0002-0233-1757"))
-Description: Compendium description
-License: MIT + file LICENSE
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Your compendium description
+License: What license it uses
 Depends: 
     dataRetrieval,
     dplyr,
     ggplot2,
     lubridate,
+    plotly,
     tidyr,
     viridis
 Encoding: UTF-8
